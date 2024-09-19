@@ -1,0 +1,22 @@
+{
+  "name": "coms4153-p1-ui",
+  "version": "1.0.0",
+  "description": "COMSW4153 - Cloud Computing UI Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seongholee4/COMS4153-P1-UI.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seongholee4/COMS4153-P1-UI/issues"
+  },
+  "homepage": "https://github.com/seongholee4/COMS4153-P1-UI#readme",
+  "dependencies": {
+    "@angular/cli": "^17.3.9"
+  }
+}
